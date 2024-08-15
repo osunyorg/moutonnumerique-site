@@ -9,10 +9,6 @@ items:
   target: "/agenda/"
   kind: page
   children: []
-- title: Membres
-  target: "/membres/"
-  kind: page
-  children: []
 - title: Organisations
   target: "/organisations/"
   kind: page
@@ -20,5 +16,9 @@ items:
 - title: L'association
   target: "/lassociation/"
   kind: page
-  children: []
+  children:
+  - title: Membres
+    target: "/lassociation/membres/"
+    kind: page
+    children: []
 
