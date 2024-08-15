@@ -12,9 +12,9 @@ fr:
     posts: /actualites/:year-:month-:day-:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/actualites/
+    persons: /lassociation/membres/:slug/
+    persons_categories: /lassociation/membres/categories/:slug/
+    authors: /lassociation/membres/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
