@@ -13,10 +13,6 @@ items:
     target: "/lassociation/raison-detre/"
     kind: page
     children: []
-  - title: Contact
-    target: "/lassociation/contact/"
-    kind: page
-    children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -27,6 +23,10 @@ items:
   children: []
 - title: Adhérez
   target: "/adherez/"
+  kind: page
+  children: []
+- title: Contact
+  target: "/contact/"
   kind: page
   children: []
 
