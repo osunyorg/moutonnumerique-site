@@ -13,10 +13,6 @@ items:
   target: "/adherez/"
   kind: page
   children: []
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
 - title: L'association
   target: "/lassociation/"
   kind: page
