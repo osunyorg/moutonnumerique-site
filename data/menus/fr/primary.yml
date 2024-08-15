@@ -25,4 +25,8 @@ items:
     target: "/lassociation/raison-detre/"
     kind: page
     children: []
+  - title: Contact
+    target: "/lassociation/contact/"
+    kind: page
+    children: []
 
