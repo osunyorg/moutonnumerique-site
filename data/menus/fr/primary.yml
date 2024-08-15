@@ -21,4 +21,8 @@ items:
     target: "/lassociation/membres/"
     kind: page
     children: []
+  - title: Raison d'être
+    target: "/lassociation/raison-detre/"
+    kind: page
+    children: []
 
