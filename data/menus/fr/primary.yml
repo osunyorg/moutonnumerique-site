@@ -1,18 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
-- title: Agenda
-  target: "/agenda/"
-  kind: page
-  children: []
-- title: Adhérez
-  target: "/adherez/"
-  kind: page
-  children: []
 - title: L'association
   target: "/lassociation/"
   kind: page
@@ -29,4 +17,16 @@ items:
     target: "/lassociation/contact/"
     kind: page
     children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  children: []
+- title: Agenda
+  target: "/agenda/"
+  kind: page
+  children: []
+- title: Adhérez
+  target: "/adherez/"
+  kind: page
+  children: []
 
