@@ -25,4 +25,8 @@ items:
     target: "/lassociation/raison-detre/"
     kind: page
     children: []
+- title: Adhérez
+  target: "/adherez/"
+  kind: page
+  children: []
 
