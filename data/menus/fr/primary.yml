@@ -29,4 +29,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Replay
+  target: "/replay/"
+  kind: page
+  children: []
 
