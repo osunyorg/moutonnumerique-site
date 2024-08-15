@@ -9,6 +9,10 @@ items:
   target: "/agenda/"
   kind: page
   children: []
+- title: Adhérez
+  target: "/adherez/"
+  kind: page
+  children: []
 - title: Organisations
   target: "/organisations/"
   kind: page
@@ -25,8 +29,4 @@ items:
     target: "/lassociation/raison-detre/"
     kind: page
     children: []
-- title: Adhérez
-  target: "/adherez/"
-  kind: page
-  children: []
 
