@@ -3,7 +3,21 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
+  breadcrumb:
+    position: after-hero
+  events:
+    index:
+      options:
+        image: true
+        subtitle: true
+        summary: true
+  posts:
+    index:
+      layout: grid
   summary:
     position: hero
   search:
-    active: false  
+    active: true
+  logo:
+    header: "/assets/images/typo.svg"
+    footer: "/assets/images/icon.svg"
