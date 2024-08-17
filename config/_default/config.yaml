@@ -14,8 +14,6 @@ params:
   posts:
     index:
       layout: grid
-  summary:
-    position: hero
   search:
     active: true
   logo:
