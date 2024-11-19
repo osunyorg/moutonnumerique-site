@@ -21,7 +21,6 @@ fr:
     posts_categories: /actualites/:slug/
     persons: /lassociation/membres/:slug/
     persons_categories: /lassociation/membres/categories/:slug/
-    authors: /lassociation/membres/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
