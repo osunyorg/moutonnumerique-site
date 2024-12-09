@@ -7,13 +7,24 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      mastodon: >-
-        https://social.tchncs.de/@Le_Mouton_Numerique
-      linkedin: >-
-        https://www.linkedin.com/company/11046928/
-      instagram: >-
-        https://www.instagram.com/mouton.numerique/
+    contact_details:
+      social_networks:
+        instagram:
+          label: >-
+            mouton.numerique
+          value: >-
+            https://instagram.com/mouton.numerique
+        linkedin:
+          label: >-
+            11046928
+          value: >-
+            https://www.linkedin.com/company/11046928/
+        mastodon:
+          label: >-
+            social.tchncs.de/@Le_Mouton_Numerique
+          value: >-
+            https://social.tchncs.de/@Le_Mouton_Numerique
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
