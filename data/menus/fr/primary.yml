@@ -4,16 +4,19 @@ items:
 - title: L'association
   target: "/lassociation/"
   kind: page
+  new_tab: false
   children:
   - title: Membres
     target: "/lassociation/membres/"
     kind: page
+    new_tab: false
     children: []
     path: "/persons"
     file: content/fr/persons/_index.html
   - title: Raison d'être
     target: "/lassociation/raison-detre/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/lassociation/raison-detre"
     file: content/fr/pages/lassociation/raison-detre/_index.html
@@ -22,30 +25,35 @@ items:
 - title: Actualités
   target: "/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
+  new_tab: false
   children: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Adhérez
   target: "/adherez/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/adherez"
   file: content/fr/pages/adherez/_index.html
 - title: Contact
   target: "/contact/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 - title: Replay
   target: "/replay/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/replay"
   file: content/fr/pages/replay/_index.html
