@@ -2,6 +2,11 @@
 
 baseURL: https://site.moutonnumerique.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: a28d0ee8-c02a-475b-96bd-4df71ed30c63
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
