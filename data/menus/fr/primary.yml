@@ -2,26 +2,26 @@
 title: Menu principal
 items:
 - title: L'association
-  target: "/lassociation/"
+  target: "/a-propos/"
   kind: page
   new_tab: false
   children:
   - title: Membres
-    target: "/lassociation/membres/"
+    target: "/a-propos/membres/"
     kind: page
     new_tab: false
     children: []
     path: "/persons"
     file: content/fr/persons/_index.html
   - title: Raison d'être
-    target: "/lassociation/raison-detre/"
+    target: "/a-propos/raison-detre/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/lassociation/raison-detre"
-    file: content/fr/pages/lassociation/raison-detre/_index.html
-  path: "/pages/lassociation"
-  file: content/fr/pages/lassociation/_index.html
+    path: "/pages/a-propos/raison-detre"
+    file: content/fr/pages/a-propos/raison-detre/_index.html
+  path: "/pages/a-propos"
+  file: content/fr/pages/a-propos/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -36,13 +36,6 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Adhérez
-  target: "/adherez/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/adherez"
-  file: content/fr/pages/adherez/_index.html
 - title: Contact
   target: "/contact/"
   kind: page
@@ -50,18 +43,16 @@ items:
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
-- title: Replay
-  target: "/replay/"
+- title: Adhérer
+  target: "/adherer/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/replay"
-  file: content/fr/pages/replay/_index.html
-- title: Expositions
-  target: "/expositions/"
-  kind: page
-  new_tab: false
+  path: "/pages/adherer"
+  file: content/fr/pages/adherer/_index.html
+- title: Soutenir
+  target: https://www.helloasso.com/associations/le-mouton-numerique/formulaires/1
+  kind: url
+  new_tab: true
   children: []
-  path: "/exhibitions"
-  file: content/fr/exhibitions/_index.html
 
