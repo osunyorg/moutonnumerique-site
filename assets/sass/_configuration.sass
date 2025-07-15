@@ -1,26 +1,40 @@
-$color-pale: #bac4c8
-
-$color-accent: #942203
+// colors
+$color-accent: #000000
 $color-text: #000000
+$color-text-reverse: #FFFFFF
 $color-text-alt: #454545
 $color-background: #FFFFFF
+$color-background-reverse: $color-text
 $color-background-alt: #F2F2F2
-$color-border: rgba(0, 0, 0, 0.30)
 $color-selection: $color-background
 $color-selection-background: rgba($color-text, .7)
 
-$heading-font-family: "Albert Sans", sans-serif
+// fonts
+$heading-font-family: "BBB Poppins TN", sans-serif
 $body-font-family: $heading-font-family
 
-$h1-weight: 100
-$lead-weight: normal
-    
-$header-background: var(--color-background)
+$h1-weight: black
+$h1-text-transform: uppercase
+
+$lead-line-height : 135%
+
+// COMPONENTS
+
+// header
+$header-background: $color-background
 $header-logo-height: 32px
 $header-logo-height-desktop: 60px
+$header-color: $color-text
 $header-border-bottom-width: 0
-$footer-background-color: $color-pale
+
+// footer
+$footer-background-color: $color-background-alt
 $footer-logo-height: 50px
 $footer-logo-height-desktop: 120px
-$hero-background-color: none
 
+// hero
+$hero-background-color: $color-background-reverse
+$hero-color: $color-text-reverse
+
+//btn
+$btn-border-radius: none

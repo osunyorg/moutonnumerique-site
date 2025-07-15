@@ -11,9 +11,9 @@ params:
         summary: true
   posts:
     index:
-      layout: grid
+      layout: list
   search:
-    active: true
+    active: false
   logo:
     header: "/assets/images/typo.svg"
     footer: "/assets/images/icon.svg"
