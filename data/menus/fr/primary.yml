@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: L'association
+- title: À propos
   target: "/a-propos/"
   kind: page
   new_tab: false
@@ -22,27 +22,20 @@ items:
     file: content/fr/pages/a-propos/raison-detre/_index.html
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
-- title: Actualités
-  target: "/actualites/"
+- title: Publications
+  target: "/publications/"
   kind: page
   new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Agenda
-  target: "/agenda/"
+- title: Événéments
+  target: "/evenements/"
   kind: page
   new_tab: false
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Contact
-  target: "/contact/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/contact"
-  file: content/fr/pages/contact/_index.html
 - title: Adhérer
   target: "/adherer/"
   kind: page
@@ -55,4 +48,11 @@ items:
   kind: url
   new_tab: true
   children: []
+- title: Contact
+  target: "/contact/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/contact"
+  file: content/fr/pages/contact/_index.html
 
