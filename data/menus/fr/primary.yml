@@ -2,43 +2,55 @@
 title: Menu principal
 items:
 - title: À propos
+  slug: a-propos
   target: "/a-propos/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Publications
+  slug: publications
   target: "/publications/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Événéments
+  slug: evenements
   target: "/evenements/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Adhérer
+  slug: adherer
   target: "/adherer/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/adherer"
   file: content/fr/pages/adherer/_index.html
 - title: Soutenir
+  slug: soutenir
   target: https://www.helloasso.com/associations/le-mouton-numerique/formulaires/1
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Contact
+  slug: contact
   target: "/contact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 
