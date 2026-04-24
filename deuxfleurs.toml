@@ -15,194 +15,194 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/publications/ressource/index.html"
+from = "/publications/ressource/"
 to = "/publications/typologie/ressource/"
 
 [[redirects]]
-from = "/membres/index.html"
+from = "/membres/"
 to = "/personnes/"
 
 [[redirects]]
-from = "/actualites/2024-08-15-lancement-1-1/index.html"
+from = "/actualites/2024-08-15-lancement-1-1/"
 to = "/publications/2024-08-15-lancement-1-1/"
 
 [[redirects]]
-from = "/agenda/2024/06/index.html"
+from = "/agenda/2024/06/"
 to = "/evenements/2024/06/"
 
 [[redirects]]
-from = "/lassociation/contact/index.html"
+from = "/lassociation/contact/"
 to = "/contact/"
 
 [[redirects]]
-from = "/publications/typologies/index.html"
+from = "/publications/typologies/"
 to = "/publications/typologie/"
 
 [[redirects]]
-from = "/agenda/2024-10-16-defaites-vos-jeux-1-1/index.html"
+from = "/agenda/2024-10-16-defaites-vos-jeux-1-1/"
 to = "/agenda/2024/defaites-vos-jeux-1-1/"
 
 [[redirects]]
-from = "/publications/thematiques/democratie/index.html"
+from = "/publications/thematiques/democratie/"
 to = "/publications/thematique/democratie/"
 
 [[redirects]]
-from = "/membres/thomas-thibault/index.html"
+from = "/membres/thomas-thibault/"
 to = "/personnes/thomas-thibault/"
 
 [[redirects]]
-from = "/actualites/2024-08-15-lancement-1/index.html"
+from = "/actualites/2024-08-15-lancement-1/"
 to = "/publications/2024-08-15-lancement-1/"
 
 [[redirects]]
-from = "/membres/thomas-thibault/publications/index.html"
+from = "/membres/thomas-thibault/publications/"
 to = "/personnes/thomas-thibault/publications/"
 
 [[redirects]]
-from = "/actualites/2024-08-15-discours-de-thomas-thibault-nouvelle-mandature-le-mouton-numerique/index.html"
+from = "/actualites/2024-08-15-discours-de-thomas-thibault-nouvelle-mandature-le-mouton-numerique/"
 to = "/publications/2024-08-15-discours-de-thomas-thibault/"
 
 [[redirects]]
-from = "/agenda/2024/05/index.html"
+from = "/agenda/2024/05/"
 to = "/evenements/2024/05/"
 
 [[redirects]]
-from = "/equipe/thomas-thibault/actualites/index.html"
+from = "/equipe/thomas-thibault/actualites/"
 to = "/personnes/thomas-thibault/publications/"
 
 [[redirects]]
-from = "/equipe/thomas-thibault/index.html"
+from = "/equipe/thomas-thibault/"
 to = "/personnes/thomas-thibault/"
 
 [[redirects]]
-from = "/equipe/index.html"
+from = "/equipe/"
 to = "/personnes/"
 
 [[redirects]]
-from = "/lassociation/membres/thomas-thibault/index.html"
+from = "/lassociation/membres/thomas-thibault/"
 to = "/personnes/thomas-thibault/"
 
 [[redirects]]
-from = "/adherez/index.html"
+from = "/adherez/"
 to = "/adherer/"
 
 [[redirects]]
-from = "/publications/thematiques/ecologie/index.html"
+from = "/publications/thematiques/ecologie/"
 to = "/publications/thematique/ecologie/"
 
 [[redirects]]
-from = "/agenda/2024/08/index.html"
+from = "/agenda/2024/08/"
 to = "/evenements/2024/08/"
 
 [[redirects]]
-from = "/agenda/2024/12/index.html"
+from = "/agenda/2024/12/"
 to = "/evenements/2024/12/"
 
 [[redirects]]
-from = "/agenda/2024/02/index.html"
+from = "/agenda/2024/02/"
 to = "/evenements/2024/02/"
 
 [[redirects]]
-from = "/agenda/2024-06-16-defaites-vos-jeux/index.html"
+from = "/agenda/2024-06-16-defaites-vos-jeux/"
 to = "/agenda/2024/defaites-vos-jeux/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/index.html"
+from = "/equipe/equipe-editoriale/"
 to = "/personnes/equipe-editoriale/"
 
 [[redirects]]
-from = "/agenda/2024/04/index.html"
+from = "/agenda/2024/04/"
 to = "/evenements/2024/04/"
 
 [[redirects]]
-from = "/actualites/2024-03-22-lancement/index.html"
+from = "/actualites/2024-03-22-lancement/"
 to = "/publications/2024-03-22-lancement/"
 
 [[redirects]]
-from = "/publications/typologies/ressource/index.html"
+from = "/publications/typologies/ressource/"
 to = "/publications/typologie/ressource/"
 
 [[redirects]]
-from = "/agenda/2024/10/index.html"
+from = "/agenda/2024/10/"
 to = "/evenements/2024/10/"
 
 [[redirects]]
-from = "/lassociation/membres/thomas-thibault/actualites/index.html"
+from = "/lassociation/membres/thomas-thibault/actualites/"
 to = "/personnes/thomas-thibault/publications/"
 
 [[redirects]]
-from = "/agenda/2024-09-16-defaites-vos-jeux-1/index.html"
+from = "/agenda/2024-09-16-defaites-vos-jeux-1/"
 to = "/agenda/2024/defaites-vos-jeux-1/"
 
 [[redirects]]
-from = "/agenda/archives/index.html"
+from = "/agenda/archives/"
 to = "/evenements/archives/"
 
 [[redirects]]
-from = "/lassociation/membres/equipe-editoriale/index.html"
+from = "/lassociation/membres/equipe-editoriale/"
 to = "/personnes/equipe-editoriale/"
 
 [[redirects]]
-from = "/agenda/2024/07/index.html"
+from = "/agenda/2024/07/"
 to = "/evenements/2024/07/"
 
 [[redirects]]
-from = "/publications/ecologie/index.html"
+from = "/publications/ecologie/"
 to = "/publications/thematique/ecologie/"
 
 [[redirects]]
-from = "/archives-expositions/index.html"
+from = "/archives-expositions/"
 to = "/expositions/archives-expositions/"
 
 [[redirects]]
-from = "/publications/thematiques/index.html"
+from = "/publications/thematiques/"
 to = "/publications/thematique/"
 
 [[redirects]]
-from = "/agenda/2024/01/index.html"
+from = "/agenda/2024/01/"
 to = "/evenements/2024/01/"
 
 [[redirects]]
-from = "/lassociation/index.html"
+from = "/lassociation/"
 to = "/a-propos/"
 
 [[redirects]]
-from = "/agenda/2024/09/index.html"
+from = "/agenda/2024/09/"
 to = "/evenements/2024/09/"
 
 [[redirects]]
-from = "/actualites/2024-08-15-discours-de-thomas-thibault/index.html"
+from = "/actualites/2024-08-15-discours-de-thomas-thibault/"
 to = "/publications/2024-08-15-discours-de-thomas-thibault/"
 
 [[redirects]]
-from = "/agenda/index.html"
+from = "/agenda/"
 to = "/evenements/"
 
 [[redirects]]
-from = "/lassociation/membres/index.html"
+from = "/lassociation/membres/"
 to = "/personnes/"
 
 [[redirects]]
-from = "/actualites/index.html"
+from = "/actualites/"
 to = "/publications/"
 
 [[redirects]]
-from = "/agenda/2024/index.html"
+from = "/agenda/2024/"
 to = "/evenements/2024/"
 
 [[redirects]]
-from = "/agenda/2024/11/index.html"
+from = "/agenda/2024/11/"
 to = "/evenements/2024/11/"
 
 [[redirects]]
-from = "/lassociation/raison-detre/index.html"
+from = "/lassociation/raison-detre/"
 to = "/a-propos/manifeste/"
 
 [[redirects]]
-from = "/agenda/2024/03/index.html"
+from = "/agenda/2024/03/"
 to = "/evenements/2024/03/"
 
 [[redirects]]
-from = "/actualites/2024-08-15-dematerialisation/index.html"
+from = "/actualites/2024-08-15-dematerialisation/"
 to = "/publications/2024-08-15-dematerialisation/"
 
