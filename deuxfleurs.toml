@@ -47,10 +47,6 @@ from = "/membres/thomas-thibault/index.html"
 to = "/personnes/thomas-thibault/"
 
 [[redirects]]
-from = "/actualites/2024-08-15-lancement-1/index.html"
-to = "/publications/2024-08-15-lancement-1/"
-
-[[redirects]]
 from = "/membres/thomas-thibault/publications/index.html"
 to = "/personnes/thomas-thibault/publications/"
 
