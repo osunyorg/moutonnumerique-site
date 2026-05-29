@@ -6,3 +6,5 @@ allowed_domains:
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
   - "static.mailerlite.com"
+  - "w.soundcloud.com"
+  - "soundcloud.com"
