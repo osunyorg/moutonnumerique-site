@@ -30,8 +30,8 @@ items:
   file: content/fr/events/_index.html
 - title: Adhérer
   slug: adherer
-  target: "/adherer/"
-  kind: page
+  target: https://www.helloasso.com/associations/le-mouton-numerique/adhesions/adhesion-2026-2027
+  kind: url
   new_tab: false
   children: []
   descendants_targets: []
