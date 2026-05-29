@@ -23,10 +23,6 @@ from = "/membres/index.html"
 to = "/personnes/"
 
 [[redirects]]
-from = "/actualites/2024-08-15-lancement-1-1/index.html"
-to = "/publications/2024-08-15-lancement-1-1/"
-
-[[redirects]]
 from = "/agenda/2024/06/index.html"
 to = "/evenements/2024/06/"
 
@@ -115,10 +111,6 @@ from = "/agenda/2024/04/index.html"
 to = "/evenements/2024/04/"
 
 [[redirects]]
-from = "/actualites/2024-03-22-lancement/index.html"
-to = "/publications/2024-03-22-lancement/"
-
-[[redirects]]
 from = "/publications/typologies/ressource/index.html"
 to = "/publications/typologie/ressource/"
 
@@ -137,6 +129,10 @@ to = "/agenda/2024/defaites-vos-jeux-1/"
 [[redirects]]
 from = "/agenda/archives/index.html"
 to = "/evenements/archives/"
+
+[[redirects]]
+from = "/publications/2026-02-28-le-mouton-numerique-au-musee-des-arts-et-metiers/index.html"
+to = "/publications/2025-02-28-le-mouton-numerique-au-musee-des-arts-et-metiers/"
 
 [[redirects]]
 from = "/lassociation/membres/equipe-editoriale/index.html"
@@ -201,8 +197,4 @@ to = "/a-propos/manifeste/"
 [[redirects]]
 from = "/agenda/2024/03/index.html"
 to = "/evenements/2024/03/"
-
-[[redirects]]
-from = "/actualites/2024-08-15-dematerialisation/index.html"
-to = "/publications/2024-08-15-dematerialisation/"
 
