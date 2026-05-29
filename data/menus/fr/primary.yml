@@ -32,11 +32,9 @@ items:
   slug: adherer
   target: https://www.helloasso.com/associations/le-mouton-numerique/adhesions/adhesion-2026-2027
   kind: url
-  new_tab: false
+  new_tab: true
   children: []
   descendants_targets: []
-  path: "/pages/adherer"
-  file: content/fr/pages/adherer/_index.html
 - title: Soutenir
   slug: soutenir
   target: https://www.helloasso.com/associations/le-mouton-numerique/formulaires/1
