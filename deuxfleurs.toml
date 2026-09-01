@@ -23,6 +23,10 @@ from = "/membres/index.html"
 to = "/personnes/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/pourquoi-la-technocritique-d-atr-n-est-pas-la-notrepdf/"
+
+[[redirects]]
 from = "/agenda/2024/06/index.html"
 to = "/evenements/2024/06/"
 
